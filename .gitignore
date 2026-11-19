@@ -1,0 +1,5 @@
+# generated / personal data
+*.log
+*.csv
+*.ctb
+__pycache__/
